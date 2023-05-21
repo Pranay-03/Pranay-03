@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arigela pranay Kumar</h1>
+<h1 align="center">Hey 👋, I'm Arigela pranay Kumar</h1>
 <h3 align="center">A passionate fullstack developer and Data Scientist from India</h3>
 
 - 🔭 I’m currently working on [Hugo Profile V2](https://github.com/Pranay-03/Hugo-Personal-Website)
